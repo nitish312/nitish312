@@ -11,7 +11,6 @@
 - 💻 Loves to manage and setting up UNIX System 
 - 👨‍💻 Contributing to open source community
 
-<br>
 
 ## 💻 Tech Stack:
 
@@ -30,7 +29,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
 
-<br>
 
 ## 👨‍💻 My Coding Profiles:
 
@@ -49,9 +47,9 @@
   <a href="https://twitter.com/Nitishc312" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="twitter" height=38 /></a>
 </p>
 
-<br>
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=nitish312&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)    ![](https://github-readme-streak-stats.herokuapp.com/?user=nitish312&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitish312&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=nitish312&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitish312&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=nitish312&theme=blueberry&hide_border=false)<br/>
+
