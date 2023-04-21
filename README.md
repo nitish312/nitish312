@@ -1,3 +1,5 @@
+[![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)](https://rishavchanda.io)
+
 <h1 align="center">👋 Hey! I'm Nitish</h1>
 <h3 align="center">Backend Developer and DevOps Enthusiast from India</h3>
 
@@ -43,8 +45,9 @@
 ## 🌐 Let's Connect:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/nitish-chintakindi-40842a1a2/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" align="center" alt="LinkedIn" height=40 /></a>
   <a href="https://twitter.com/Nitishc312" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="twitter" height=38 /></a>
+  <a href="https://www.linkedin.com/in/nitish-chintakindi-40842a1a2/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" align="center" alt="LinkedIn" height=40 /></a>
+  <a href="https://linktr.ee/nitishchintakindi" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/94921807/233525378-62058caa-fac8-41a1-9383-a62ecaa763fe.png" alt="linktree" height=40 width=40 /></a>
 </p>
 
 
