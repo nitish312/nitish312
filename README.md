@@ -1,5 +1,3 @@
-[![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)](https://rishavchanda.io)
-
 <h1 align="center">👋 Hey! I'm Nitish</h1>
 <h3 align="center">Backend Developer and DevOps Enthusiast from India</h3>
 
