@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey! I'm Nitish</h1>
+<h1 align="center">👋 Hey! I'm Nitish Chintakindi</h1>
 <h3 align="center">Backend Developer and DevOps Enthusiast from India</h3>
 
 ## <img src="https://em-content.zobj.net/source/skype/289/man-technologist_1f468-200d-1f4bb.png" height="30px" width="30px" align="center"/> What I'm upto:
@@ -54,5 +54,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=nitish312&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitish312&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nitish312&theme=blueberry&hide_border=false)<br/>
+![](https://komarev.com/ghpvc/?username=nitish312)
 */
 -->
