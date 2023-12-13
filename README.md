@@ -39,6 +39,12 @@
   <a href="https://www.hackerrank.com/nitishchintakin1" target="_blank"><img src="https://user-images.githubusercontent.com/94921807/232977500-da457b1e-ddea-469b-b857-0f175e8b0769.png" align="center" alt="Hackerrank" height=40 /></a>
 </p>
 
+## 👨‍💻 My Blogs:
+
+<p align="left">
+  <a href="https://nitishchintakindi.hashnode.dev/?source=top_nav_blog_home" target="_blank"><img src="https://github.com/nitish312/nitish312/assets/94921807/ee41e22d-1ea4-4e0d-8bc9-432b340bb4cf" align="center" alt="Hashnode" height=40 /></a>
+</p>
+
 
 ## 🌐 Let's Connect:
 
