@@ -43,6 +43,7 @@
 
 <p align="left">
   <a href="https://nitishchintakindi.hashnode.dev/?source=top_nav_blog_home" target="_blank"><img src="https://github.com/nitish312/nitish312/assets/94921807/ee41e22d-1ea4-4e0d-8bc9-432b340bb4cf" align="center" alt="Hashnode" height=40 /></a>
+  <a href="https://medium.com/@nitishchintakindi" target="_blank"><img src="https://github.com/nitish312/nitish312/assets/94921807/247976a2-8fa4-418c-869a-07448c0d9e60" align="center" alt="Medium" height=40 /></a>
 </p>
 
 
